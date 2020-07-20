@@ -21,6 +21,10 @@ W | Consonant
 2 | number
 # | special character 
 # | special character
-] | special character
+] | Special Character
 . | special character
+# of vowels: 1
+# of Consonants: 3
+# of numbers: 2
+# of special characters: 4
 
